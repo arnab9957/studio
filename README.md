@@ -2,6 +2,8 @@
 
 A modern Next.js application built with Firebase Studio for managing cloud technology events and conferences.
 
+🌐 **Live Site**: [https://studio--cloud-konnect.us-central1.hosted.app/](https://studio--cloud-konnect.us-central1.hosted.app/)
+
 ## 🚀 Features
 
 - **Hero Section**: Eye-catching header with animated logo and event countdown timer
